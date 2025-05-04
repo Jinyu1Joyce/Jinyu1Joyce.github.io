@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Author Page
+title: About the group
 ---
 
 ## Shuyu CAO
-* In charge of Data Collection, Data Preprocessing and Data Analyzing
+* Responsible for data collection, preprocessing, and analysis.
 
 ## Leyao HUANG
-* In charge of Introduction, literature Review and Qualitative Assessment
+* Responsible for the introduction, literature review, and qualitative assessment.
 
 ## Jinyu LIU
-* In charge of Result Presentation, Discussion and Website making
+* Responsible for results presentation, discussion, and website design.
 
 ## Anupa KUJUR
-* In charge of Methodology, Qualitative Assessment and Limitation 
+* Responsible for methodology, qualitative assessment, and identifying study limitations. 
 
