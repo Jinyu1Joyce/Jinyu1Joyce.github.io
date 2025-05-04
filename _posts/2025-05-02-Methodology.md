@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Methodology
-subtitle: There's lots to learn!
+subtitle: Detecting Demographic Bias in Harmful Loan Ads Using Multilingual Zero-Shot NLP
 comments: true
 mathjax: true
+cover-img: /assets/img/The Adviser-meta-facebook-ta_lk7gjt.jpeg
+thumbnail-img: /assets/img/avoid-loan-fraud.jpg
+share-img: /assets/img/The Adviser-meta-facebook-ta_lk7gjt.jpeg
 ---
 
 
@@ -13,7 +16,7 @@ For the purpose of this study, we have used data from the META ads database, whi
 
 **Data Collection and Preprocessing**
 
-Using API, a large amount of data was retrieved from the META Ad Library. From this, we filtered out the data for advertisements related to loans in France in the month of October 2024. To filter these ads, we used words such as 'loan', 'prêt', 'crédit', 'financement', 'microcrédit', 'emprunt' as the word embeddings in the 'ad_creative_bodies'. We then use a zero-shot classification to determine the probability of “loan” and filter out the ones with a probability of less than 0.5. A zero-shot classification is a machine learning technique where a model can classify data into categories without having seen any labeled examples of those categories during training. This model uses natural language inference (NLI) or semantic similarity to assess whether a given input text implies a particular label or category. For this study, we have used the MoritzLaurer/mDeBERTa-v3-base-mnli-xnli model, which is a transformer-based architecture fine-tuned for NLI across multiple languages. 
+Using API, a large amount of data was retrieved from the META Ad Library. From this, we filtered out the data for advertisements related to loans in France in the month of October 2024. To filter these ads, we used words such as **'loan', 'prêt', 'crédit', 'financement', 'microcrédit', 'emprunt'** as the word embeddings in the 'ad_creative_bodies'. We then use a **zero-shot classification** to determine the probability of “loan” and filter out the ones with a probability of less than 0.6. A zero-shot classification is a machine learning technique where a model can classify data into categories without having seen any labeled examples of those categories during training. This model uses natural language inference (NLI) or semantic similarity to assess whether a given input text implies a particular label or category. For this study, we have used the **MoritzLaurer/mDeBERTa-v3-base-mnli-xnli model**, which is a transformer-based architecture fine-tuned for NLI across multiple languages. 
 
 The data used for conducting a distribution analysis in our final stage to determine the exposure of different age groups to harmful loan data is also determined by the model, where in, the dummy variables for ads related to financial losses and the variable for determining if the advertisement is related to loans is positive. 
 
