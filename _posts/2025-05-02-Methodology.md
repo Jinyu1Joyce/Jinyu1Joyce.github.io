@@ -2,11 +2,9 @@
 layout: post
 title: Methodology
 subtitle: Detecting Demographic Bias in Harmful Loan Ads Using Multilingual Zero-Shot NLP
-comments: true
-mathjax: true
-cover-img: /assets/img/The Adviser-meta-facebook-ta_lk7gjt.jpeg
-thumbnail-img: /assets/img/avoid-loan-fraud.jpg
-share-img: /assets/img/The Adviser-meta-facebook-ta_lk7gjt.jpeg
+cover-img: /assets/img/3.2.jpg
+thumbnail-img: /assets/img/3.1.jpg
+share-img: /assets/img/3.2.jpg
 ---
 
 
