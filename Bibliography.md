@@ -33,7 +33,7 @@ title: Bibliography
 
 * [Taneja, Khushboo, Jyoti Vashishtha, and Saroj Ratnoo. “Fraud-BERT: Transformer Based Context Aware Online Recruitment Fraud Detection.” Discover Computing 28 (2025): 9. ]([https://doi.org/10.1007/s10791-025-09502-8])
 
-* [Unda, Luisa, and Alexandra Niessen-Ruenzi. “Gender Stereotypes in Financial Advertisements.” SSRN, March 8, 2024. ]([https://ssrn.com/abstract=4752630 or http://dx.doi.org/10.2139/ssrn.4752630])
+* [Unda, Luisa, and Alexandra Niessen-Ruenzi. “Gender Stereotypes in Financial Advertisements.” SSRN, March 8, 2024. ]([https://ssrn.com/abstract=4752630])
 
 
 
