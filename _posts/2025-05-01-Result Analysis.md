@@ -50,10 +50,11 @@ This finding strengthens the argument that the bias in the ad targeting is more 
 For the fraud ads, we applied the same comparative logic as before: analyzing results both before and after aggregating similar ads. Using the facebook/bart-large-mnl model, we initially identified 55 ads as “fraud loan ads”, accounting for 20.4% of all loan ads. After grouping highly similar creatives, this number was reduced to 13. A normalized exposure analysis by demographic group revealed a striking inconsistency between the pre- and post-aggregation results. Prior to aggregation, the ads exhibited a clear bias toward male users, particularly those aged 18–24 (with a normalized exposure of 1.22), followed by males aged 65+ (1.05). However, after aggregation, the demographic skew shifted markedly: exposure became disproportionately high among female users, especially in the 18–24 and 45–54 age group. This reversal suggests that although individual ads may appear targeted toward one group, the delivery algorithm—after aggregating similar content—amplifies exposure in ways that disproportionately affect others.
 This pattern reinforces our hypothesis: Meta’s ad delivery system is not just passively distributing content, but actively shaping who sees what based on inferred engagement patterns. The fact that women, particularly younger and middle-aged groups, become overexposed after aggregation points to a systemic algorithmic bias. These findings raise critical questions about the fairness and accountability of algorithm-driven ad platforms and highlight the need for greater transparency in how targeting mechanisms operate at scale.
 
-<figure class="half">
+<div class="d-flex justify-content-center">
 ![Figure7](/assets/img/figure7.jpg)
 <center> Figure7: Unaggregated Normalized Exposure to Fraud Loan Ads by Demographic Group</center>
+{: .mx-2 .d-block style="max-width: 45%;" }
 
 ![Figure8](/assets/img/figure8.jpg)
 <center> Figure8: Aggregated Normalized Exposure to Fraud Loan Ads by Demographic Group</center>
-</figure>
+</div>
