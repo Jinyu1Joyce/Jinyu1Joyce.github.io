@@ -51,6 +51,7 @@ For the fraud ads, we applied the same comparative logic as before: analyzing re
 This pattern reinforces our hypothesis: Meta’s ad delivery system is not just passively distributing content, but actively shaping who sees what based on inferred engagement patterns. The fact that women, particularly younger and middle-aged groups, become overexposed after aggregation points to a systemic algorithmic bias. These findings raise critical questions about the fairness and accountability of algorithm-driven ad platforms and highlight the need for greater transparency in how targeting mechanisms operate at scale.
 
 <div class="d-flex justify-content-center">
+
 ![Figure7](/assets/img/figure7.jpg)
 {: .mx-2 .d-block}
 <center> Figure7: Unaggregated Normalized Exposure to Fraud Loan Ads by Demographic Group</center>
