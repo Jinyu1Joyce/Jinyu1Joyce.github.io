@@ -25,10 +25,12 @@ Source: Federal Trade Commission, “Who Experiences Scams? A Story for All Ages
 
 **Recital 68** of the **Digital Services Act (DSA)** makes clear that 
 > “Online advertising can contribute to significant risks, ranging from advertisements that are themselves illegal content, to contributing to financial incentives for the publication or amplification of illegal or otherwise harmful content and activities online, or the discriminatory presentation of advertisements with an impact on the equal treatment and opportunities of citizens.”
+> 
 In practice, it’s entirely acceptable for algorithms to steer cosmetics toward women or sports gear toward young men because those groups are the natural market. But it crosses a line when the same machinery funnels predatory or fraudulent financial products to vulnerable cohorts—ads that can inflict real economic harm. This concern actually inspired us to do research on Meta’s Ad Library for harmful loans and test for demographic bias.
 
 **Recital 79** then obliges very large online platforms like Meta to identify and mitigate systemic risks arising from their services, while **Recital 95** flags the 
 > “emerging risks brought by the distribution of advertising online, for example in relation to illegal advertisements or manipulative techniques and disinformation with a real and foreseeable negative impact on public health".
+> 
 Our findings—that women aged 18–24 and 45–54 are disproportionately exposed to harmful or fraudulent loan offers—show that Meta’s current moderation falls short of these DSA requirements.
 
 Moreover, these biased delivery patterns may also cause infringement to the **GDPR**’s transparency and fairness rules. **Articles 13 and 14** give users the right to know how their data are used for personalized advertising, and **Article 5** requires 
