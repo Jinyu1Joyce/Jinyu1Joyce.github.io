@@ -21,7 +21,7 @@ title: Bibliography
 
 * [Laurer, Moritz. “mDeBERTa-v3-base-mnli-xnli.” Hugging Face. Last modified October 23, 2023. Accessed April 30, 2025. ](https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli)
 
-* Laurer, Moritz, Willem van Atteveldt, Anna Casas, and Koen Welbers. 2022. “Less Annotating, More Classifying: Addressing the Data Scarcity Issue of Supervised Machine Learning with Deep Transfer Learning and BERT-NLI.” Manuscript, Department of Communication Science, Vrije Universiteit Amsterdam.
+* [Laurer, Moritz, Willem van Atteveldt, Anna Casas, and Koen Welbers. 2022. “Less Annotating, More Classifying: Addressing the Data Scarcity Issue of Supervised Machine Learning with Deep Transfer Learning and BERT-NLI.” Manuscript, Department of Communication Science, Vrije Universiteit Amsterdam.](https://www.cambridge.org/core/journals/political-analysis/article/less-annotating-more-classifying-addressing-the-data-scarcity-issue-of-supervised-machine-learning-with-deep-transfer-learning-and-bertnli/05BB05555241762889825B080E097C27)
 
 * [Lewis, Mike, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, and Luke Zettlemoyer. “BART: Denoising Sequence-to-Sequence Pre-Training for Natural Language Generation, Translation, and Comprehension.” arXiv, October 2019. ](https://doi.org/10.48550/arXiv.1910.13461)
 
