@@ -52,9 +52,10 @@ This pattern reinforces our hypothesis: Meta’s ad delivery system is not just 
 
 <div class="d-flex justify-content-center">
 ![Figure7](/assets/img/figure7.jpg)
+{: .mx-2 .d-block}
 <center> Figure7: Unaggregated Normalized Exposure to Fraud Loan Ads by Demographic Group</center>
-{: .mx-2 .d-block style="max-width: 45%;" }
 
 ![Figure8](/assets/img/figure8.jpg)
+{: .mx-2 .d-block}
 <center> Figure8: Aggregated Normalized Exposure to Fraud Loan Ads by Demographic Group</center>
 </div>
