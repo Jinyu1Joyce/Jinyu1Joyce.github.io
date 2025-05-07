@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Result Analysis
-subtitle: Guess whos birthday
+subtitle: Long live the people
 comments: true
 mathjax: true
 ---
