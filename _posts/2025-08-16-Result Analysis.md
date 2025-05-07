@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Result Analysis
-subtitle: There's lots to learn!
+subtitle: Guess whos birthday
 comments: true
 mathjax: true
 ---
